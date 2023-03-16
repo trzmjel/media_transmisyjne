@@ -1,0 +1,11 @@
+3 zajęcia : 
+Rozpoczęcię dokumentacji (przygotowanie wstępu, założeń projektowych, opis grupy odbiorców oraz lokalizacji)
+
+4 zajęcia :
+Przygotowanie projektu logicznego.
+
+5 zajęcia :
+Rozpoczęcie projektu fizycznego, opracowanie i wykonanie analizy bilansu mocy optycznej toru światłowodowego dla przyjętych danych zgodnych z założeniami projektowym
+
+6 zajecia (ostatnie) :
+Przygotowanie projektu fizycznego, dopracowanie dokumentacji,sporządzenie kosztorysu oraz wykazu urządzeń sieciowych 
