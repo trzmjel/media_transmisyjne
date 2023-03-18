@@ -1,0 +1,25 @@
+\documentclass[12pt]{article} %czcionka 12
+\usepackage{pdfpages} %wstawianie stron z .pdf
+\usepackage{graphicx} %wstawianie grafiki
+\usepackage{mathptmx} %czcionka Times New Roman
+\usepackage[T1]{fontenc} %encoding
+\usepackage{setspace}
+	\onehalfspacing %interlinia 1.5
+\usepackage{ragged2e}
+	\justifying
+
+\author{Miłosz Mosur}
+\author{Mateusz Ossowski}
+\author{Maciej Ratajski}
+
+\renewcommand{\figurename}{Rysunek}
+\renewcommand{\contentsname}{Spis treści}
+
+
+\begin{document}
+	\includepdf[pages=-]{title.pdf} %strona tytułowa
+	\tableofcontents
+	\newpage
+	\section{Wstęp}
+		\input{intro.tex}
+\end{document}
