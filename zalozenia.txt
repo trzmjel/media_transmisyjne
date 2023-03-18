@@ -1,0 +1,7 @@
+Lokalizacja : Grabowno Wielki, ulica, na której znajdują się domy o adresach 43-57 i 80-90 (włącznie z adresami z literą a)
+OLT: Na wschodzie znajduję się Szkoła Podstawowa, która wydaje się być dobrym miejscem na taką infrastrukturę w tym miasteczku.
+Swiatłowód : SM (średnice 8-9 mikrometrów rdzeń, 125 mikrometrów bufor)
+Przepustowość: 1000MB/500MB per end point (budynek). Uwzględnić overbooking na poziomie około 80% (powinno to być tak, że jedynym ograniczeniem będą te switche później, to znaczy łatwa modernizacja w razie potrzeby więc można też by zrobić to na poziomie 50% lub niżej?)
+Topologia : P2MP.
+Architektura : FTTH
+System : GPON
